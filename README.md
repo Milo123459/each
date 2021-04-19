@@ -11,3 +11,7 @@ The neofetch of remote data fetching.
     <img src="https://www.codefactor.io/repository/github/milo123459/each/badge">
 </h3>
 <h1></h1>
+
+## Planned usage (still in alpha)
+
+Soon™
