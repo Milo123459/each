@@ -3,7 +3,7 @@
 The neofetch of remote data fetching.
 <h3>
 <h3 align="center">
-    <a href="https://github.com/Milo123459/glitter/releases">
+    <a href="https://github.com/Milo123459/each/releases">
     <img src="https://img.shields.io/github/downloads/Milo123459/each/total.svg">
     </a>
     <img src="https://img.sfhields.io/github/stars/Milo123459/each">
