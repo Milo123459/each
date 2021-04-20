@@ -10,8 +10,7 @@ The neofetch of remote data fetching.
     <img src="https://tokei.rs/b1/github/Milo123459/each?category=lines">
     <img src="https://www.codefactor.io/repository/github/milo123459/each/badge">
 </h3>
-<h1></h1>
 
-## Planned usage (still in alpha)
+## What is it
 
-Soon™
+Each is a "programming language" where you can essentially create http(s) requests on demand, and display the response nicely.
